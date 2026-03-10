@@ -115,7 +115,7 @@ a)  Is de onderzoeksopzet van Esteves & Cardoso observationeel of experimenteel?
 
 *Je hoeft het artikel hier niet voor te lezen, maak gebruik van de info in de introductie.*
 
-[*Antwoord*]{style="color:red"}
+[*Dit is een expirimenteel onderzoek, want ze gaan zelf onderzoeken van welke proteins de expressionlevels afwijkend zijn*]{style="color:red"}
 
 b)  De onderzoeksopzet van Esteves & Cardoso is cross-sectioneel. Leg uit waarom dit onderzoek niet prospectief zou kunnen worden uitgevoerd - denk daarbij aan hoe onderzoekers aan de samples komen. (1)
 
