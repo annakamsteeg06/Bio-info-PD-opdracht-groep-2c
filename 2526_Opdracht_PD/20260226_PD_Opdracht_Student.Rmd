@@ -14,6 +14,8 @@ Groepsnummer: 2C
 Groeps leden: Sjanne Bogers Anna Kamsteeg Finn Mesker Maryse Nas
 
 HML file: by clicking on Knit!
+samenwerking via GitHub
+
 
 ```{r}
 ```
@@ -590,3 +592,4 @@ Dit brengt ons aan het einde van de PD-opdracht. De opdrachten en antwoorden ont
 > EINDE
 
 ------------------------------------------------------------------------
+
